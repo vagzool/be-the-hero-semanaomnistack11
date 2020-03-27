@@ -1,0 +1,7 @@
+npx create-react-app nomedoprojeto
+
+npm installreact-icons
+
+npm install react-router-dom
+
+npm install axios
