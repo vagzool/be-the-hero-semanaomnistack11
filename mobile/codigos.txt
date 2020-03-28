@@ -1,0 +1,25 @@
+npm install -g expo-cli
+
+expo init nomedoprojeto
+
+yarn start
+
+expo client:install:android
+
+
+npm install @react-navigation/native
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install @react-navigation/stack
+
+expo install expo-constants
+
+
+escrita de email
+
+expo install expo-mail-composer
+
+npm install axios
+
+npm install intl (conversõe para moedas)
